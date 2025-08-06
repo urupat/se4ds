@@ -12,4 +12,5 @@
 |example/ch02       |2章の例題    |
 |example/ch03       |3章の例題    |
 |...        |...         |
-|example/ch14       |14章の例題   |
+|example/ch11       |11章の例題   |
+|example/data       |各章で利用するデータ   |
