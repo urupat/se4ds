@@ -1,8 +1,8 @@
 
-<img src="se4ds.jpg" style="float: right; margin-left: 10px;" width="20%">
 
 [オライリー・ジャパン](https://www.oreilly.co.jp/)発行の『[データサイエンスのためのソフトウェアエンジニアリング入門](https://www.oreilly.co.jp/books/9784814401321)』の例題のリポジトリです。
 
+<img src="se4ds.jpg" style="float: right; margin-left: 10px;" width="20%">
 
 ## NEWS
  - <a href="https://www.amazon.co.jp/dp/4814401329">アマゾンで予約</a>が開始されました！（9/15）
