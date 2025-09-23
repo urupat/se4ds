@@ -5,7 +5,7 @@
 <img src="se4ds.jpg" style="float: right; margin-left: 10px;" width="20%">
 
 ## NEWS
- - <a href="https://www.amazon.co.jp/dp/4814401329">アマゾンで予約</a>が開始されました！（9/15）
+ - 予約が開始されました（9/15） -- <a href="https://www.amazon.co.jp/dp/4814401329">アマゾン</a> &nbsp;&nbsp; <a href="https://www.yodobashi.com/product/100000009004165583/">ヨドバシ</a> &nbsp;&nbsp; <a href="https://books.rakuten.co.jp/rb/18353739/">楽天</a>
 
 ## 例題
  - 例題等のダウンロードは、次のいずれかの方法でどうぞ
